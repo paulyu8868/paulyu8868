@@ -42,7 +42,7 @@
 | **언어**     | Java, Python, SQL, C/C++                                |
 | **백엔드**   | Spring Boot, JPA                            |
 | **데이터**   | MySQL, Pandas, Numpy               |
-| **기타 경험**     | Scikit-learn, React, Express.js, AWS RDS                       |
+| **기타 경험**     | React, Express.js, AWS RDS                       |
 
 
 
