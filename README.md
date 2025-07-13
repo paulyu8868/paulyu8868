@@ -45,7 +45,7 @@
 ## **💻 Tech Stack**
 | **분야**     | **기술**                                      |
 |--------------|---------------------------------------------|
-| **언어**     | Java, Python, SQL, C/C++, APEX, Javascript                                |
+| **언어**     | **Java**, **Python**, SQL, C/C++, **APEX**, Javascript                                |
 | **백엔드**   | Spring Boot, JPA                            |
 | **데이터**   | MySQL, Pandas, Numpy               |
 
