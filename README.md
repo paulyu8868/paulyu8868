@@ -17,6 +17,7 @@
 <img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/8247b721-04f6-4e54-a3ee-60456ad21d7f" />
 
 <br> 현재 세일즈포스 생태계에 관심이 생겨 **LWC / APEX**를 학습하며 프로젝트를 진행하고 있습니다.
+<br> <a href="https://github.com/YashijaSalesForce" target="_self">야쉬자 프로젝트 바로가기</a>
 
 
 ## **📚 Education & Activities**
