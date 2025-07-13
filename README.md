@@ -17,7 +17,7 @@
 <img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/8247b721-04f6-4e54-a3ee-60456ad21d7f" />
 
 <br> 현재 세일즈포스 생태계에 관심이 생겨 **LWC / APEX**를 학습하며 프로젝트를 진행하고 있습니다.
-<br> <a href="https://github.com/YashijaSalesForce" target="_self">야쉬자 프로젝트 바로가기</a>
+<br> <a href="https://github.com/YashijaSalesForce" target="_self">야쉬자 세일즈포스 프로젝트</a>
 
 
 ## **📚 Education & Activities**
@@ -26,9 +26,9 @@
 | Python 개발자 양성과정 교육         | 2023.07.17 ~ 2023.08.09 | Pandas 기반 데이터 분석 및 시각화                        |
 | 인공지능 응용 수업 팀프로젝트         | 2024.04.15 ~ 2024.05.29 | CNN(ResNet50) 모델을 활용한 스포츠 이미지 분류                       |
 | 코드트리 알고리즘 캠프         | 2024.04.28 ~ 2024.05.11 | 알고리즘 학습 (BFS, DFS, DP 등) 및 코딩 테스트 대비                       |
-| **인하대학교 탄소중립 INNOVATION ACADEMY 3기**      | 2024.09.12 ~ 2024.12.23 | BIS 시스템 구현 프로젝트<br> (Spring Boot 기반 서버 개발/MySQL 활용)           |
-| **종합설계 프로젝트**           | 2024.09.01 ~ 2024.12.20 | 수익성과 안정성 강화를 위한 퀀트 투자 알고리즘 연구 <br> (Pandas 활용 데이터 분석/Spring Boot 기반 서버 개발)    |
-| **CRM101 4기 프로젝트**           | 2025.06.27 ~ 진행중     | 가상기업 야쉬자를 대상으로 **세일즈포스 도입** 프로젝트 진행중<br>    |
+| **인하대학교 탄소중립<br> INNOVATION ACADEMY 3기**      | 2024.09.12 ~ 2024.12.23 | **버스정보시스템(BIS)** 개발<br> **#** 기업 연계 프로젝트 **#** Spring Boot **#** MySQL **#** AWS RDS           |
+| **종합설계 프로젝트**           | 2024.09.01 ~ 2024.12.20 | **한국투자증권 API 연동 자동매매 서비스** 개발 <br> **#** Python/Pandas-퀀트 알고리즘 분석/개발 **#** Java/Spring-한국투자증권 API 연동/자동매매 서버 **#** Kotlin - 안드로이드 앱   |
+| **CRM101 4기 프로젝트**           | 2025.06.27 ~ 진행중     | 가상기업(야쉬자)을 대상으로 **세일즈포스 도입** 프로젝트 진행중<br>    |
 
 
 
