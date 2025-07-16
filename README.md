@@ -17,7 +17,7 @@
 <img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/8247b721-04f6-4e54-a3ee-60456ad21d7f" />
 
 <br> 현재 세일즈포스 개발자가 되기 위해 **청년 CRM101** 과정에서 **LWC / APEX**를 학습하며 프로젝트를 진행하고 있습니다!
-<br> <a href="https://github.com/YashijaSalesForce" target="_self">야쉬자 세일즈포스 프로젝트</a>
+<br> ☁️<a href="https://github.com/YashijaSalesForce" target="_self">야쉬자 세일즈포스 프로젝트</a>
 
 
 ## **📚 Education & Activities**
