@@ -51,14 +51,14 @@
 
 
 ## **🚀 Vision**
-**"비즈니스를 깊이 이해하는 Salesforce Technical Consultant"**
+**"비즈니스를 깊이 이해하는 Salesforce Solution Architect"**
 
 단순한 기능 구현을 넘어, 고객의 비즈니스 프로세스를 근본적으로 혁신하는 
 세일즈포스 전문가를 목표로 합니다.
 
-- 🎯 **단기 목표**: Salesforce 멀티 클라우드 전문성 확보
-- 🏆 **중기 목표**: 산업별 베스트 프랙티스를 보유한 시니어 컨설턴트
-- 🌟 **장기 목표**: 한국 세일즈포스 생태계를 선도하는 아키텍트
+- 🎯 **단기 목표**: Sales Cloud Consultant 자격증 취득 및 전문성 확보
+- 🏆 **중기 목표**: 멀티 클라우드 역량을 갖춘 Senior Consultant
+- 🌟 **장기 목표**: Certified Technical Architect (CTA)
 
 기술과 비즈니스의 시너지를 통해 고객사의 디지털 트랜스포메이션을 
 성공적으로 이끄는 파트너가 되겠습니다.
