@@ -54,7 +54,7 @@
 **"비즈니스를 깊이 이해하는 Salesforce Solution Architect"**
 
 단순한 기능 구현을 넘어, 고객의 비즈니스 프로세스를 근본적으로 혁신하는 
-세일즈포스 전문가를 목표로 합니다.
+세일즈포스 전문가를 목표로 하고 있습니다!
 
 - 🎯 **단기 목표**: Sales Cloud Consultant 자격증 취득 및 전문성 확보
 - 🏆 **중기 목표**: 멀티 클라우드 역량을 갖춘 Senior Consultant
