@@ -16,7 +16,7 @@
 
 <img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/8247b721-04f6-4e54-a3ee-60456ad21d7f" />
 
-<br> 현재 세일즈포스 개발자가 되기 위해 **청년 CRM101** 과정 수료 후 **Trailhead**를 통해 다양한 컨텐츠를 학습하고 있습니다!
+<br> 현재 세일즈포스 개발자가 되기 위해 **청년 CRM101** 과정 수료 후 **Trailhead**를 통해 평소에 관심있던 AgentForce를 학습하고 있습니다!
 
 
 ## **📚 Education & Activities**
