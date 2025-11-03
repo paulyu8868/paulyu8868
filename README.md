@@ -40,6 +40,7 @@
 - **SQLD** *(2024.12)*  
 - **정보처리기사** *(2024.12)* 
 - **Salesforce Certified Administrator** *(2025.07)*
+- **Salesforce Certified Data Cloud Consultant** *(2025.10)*
 
 ## **💻 Tech Stack**
 | **분야**     | **기술**                                      |
