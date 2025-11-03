@@ -10,11 +10,12 @@
 
 ## **👨‍💻 About Me**
 
-<img width="240" height="164" alt="image" src="https://github.com/user-attachments/assets/b934d9c7-ba35-4ee5-bee3-c8670a0e0f01" />
+<p align="Center">
+    <img width="466" height="384" alt="image" src="https://github.com/user-attachments/assets/94a6b16e-ca0d-46ca-9a29-e2834da2ac3e" />
 
-<img width="240" height="164" alt="image" src="https://github.com/user-attachments/assets/de051760-efb8-445e-a0eb-5a4d73ea66ec" />
+</p>
 
-<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/8247b721-04f6-4e54-a3ee-60456ad21d7f" />
+
 
 <br> 현재 **청년 CRM101** 과정 수료 후 **Trailhead**를 통해 평소에 관심있던 **AgentForce**를 학습하고 있습니다!
 
