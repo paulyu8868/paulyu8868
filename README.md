@@ -45,7 +45,7 @@
 ## **💻 Tech Stack**
 | **분야**     | **기술**                                      |
 |--------------|---------------------------------------------|
-| **언어**     | **Java**, **Python**, SQL, C/C++, **APEX**, Javascript                                |
+| **언어**     | **Java**, **Python**, **SQL**, **APEX**, Javascript, C/C++                                |
 | **백엔드**   | Spring Boot, JPA                            |
 | **데이터**   | MySQL, Pandas, Numpy               |
 
@@ -57,7 +57,7 @@
 단순한 기능 구현을 넘어, 고객의 비즈니스 프로세스를 근본적으로 혁신하는 
 세일즈포스 전문가를 목표로 하고 있습니다!
 
-- 🎯 **단기 목표**: Sales Cloud Consultant 자격증 취득 및 전문성 확보
+- 🎯 **단기 목표**: Data Cloud Consultant 역량 및 전문성 확보
 - 🏆 **중기 목표**: 멀티 클라우드 역량을 갖춘 Senior Consultant
 - 🌟 **장기 목표**: Certified Technical Architect (CTA)
 
