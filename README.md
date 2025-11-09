@@ -5,9 +5,10 @@
 <h3 align="Center">안녕하세요! 👋</h3>
 <p align="Center">
     다양한 분야를 경험하며 성장하는 개발자 <b>유수종</b>입니다.
-    https://hill-tellurium-297.notion.site/199edfcd546680bcaf3be6f1b3e5dd45
 </p>
-
+<p align="Center">
+ 🚀 [<b>노션 포트폴리오</b>]: [https://hill-tellurium-297.notion.site/199edfcd546680bcaf3be6f1b3e5dd45]
+</p>
 
 ## **👨‍💻 About Me**
 
@@ -17,8 +18,9 @@
 </p>
 
 
-
-<br> 현재 **청년 CRM101** 과정 수료 후 **Trailhead**를 통해 평소에 관심있던 **AgentForce**를 학습하고 있습니다!
+<p align="Center">
+    현재 Data Cloud 컨설턴트로서 고객 데이터 통합 및 활용 전략을 제시하며 Salesforce 생태계에 기여하고 있습니다.
+</p>
 
 
 ## **📚 Education & Activities**
