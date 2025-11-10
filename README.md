@@ -19,7 +19,7 @@
 
 
 <p align="Center">
-    현재 Data Cloud 컨설턴트로서 고객 데이터 통합 및 활용 전략을 제시하며 Salesforce 생태계에 기여하고 있습니다.
+    현재 <b>Data Cloud 컨설턴트</b>로서 고객 데이터 통합 및 활용 전략을 제시하며 Salesforce 생태계에 기여하고 있습니다.
 </p>
 
 
@@ -62,7 +62,7 @@
 세일즈포스 전문가를 목표로 하고 있습니다!
 
 - 🎯 **단기 목표**: Data Cloud Consultant 역량 및 전문성 확보
-- 🏆 **중기 목표**: 멀티 클라우드 역량을 갖춘 Senior Consultant
+- 🏆 **중기 목표**: 멀티 클라우드/Agentforce 역량을 갖춘 Senior Consultant
 - 🌟 **장기 목표**: Certified Technical Architect (CTA)
 
 기술과 비즈니스의 시너지를 통해 고객사의 디지털 트랜스포메이션을 
