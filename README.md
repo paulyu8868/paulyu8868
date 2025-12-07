@@ -6,9 +6,7 @@
 <p align="Center">
     다양한 분야를 경험하며 성장하는 개발자 <b>유수종</b>입니다.
 </p>
-<p align="Center">
- 🚀 [<b>노션 포트폴리오</b>]: [https://hill-tellurium-297.notion.site/199edfcd546680bcaf3be6f1b3e5dd45]
-</p>
+
 
 ## **👨‍💻 About Me**
 
